@@ -1,0 +1,4 @@
+#Sun Jun 02 09:52:29 CEST 2024
+base.0=/Users/naz/AndroidStudioProjects/flappy-bird/android/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,8 @@
+com.game.flappybird.android-pngs-0 /Users/naz/AndroidStudioProjects/flappy-bird/android/build/generated/res/pngs/debug
+com.game.flappybird.android-resValues-1 /Users/naz/AndroidStudioProjects/flappy-bird/android/build/generated/res/resValues/debug
+com.game.flappybird.android-rs-2 /Users/naz/AndroidStudioProjects/flappy-bird/android/build/generated/res/rs/debug
+com.game.flappybird.android-mergeDebugResources-3 /Users/naz/AndroidStudioProjects/flappy-bird/android/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.game.flappybird.android-mergeDebugResources-4 /Users/naz/AndroidStudioProjects/flappy-bird/android/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.game.flappybird.android-merged_res-5 /Users/naz/AndroidStudioProjects/flappy-bird/android/build/intermediates/merged_res/debug
+com.game.flappybird.android-android-6 /Users/naz/AndroidStudioProjects/flappy-bird/android/res
+com.game.flappybird.android-debug-7 /Users/naz/AndroidStudioProjects/flappy-bird/android/src/debug/res

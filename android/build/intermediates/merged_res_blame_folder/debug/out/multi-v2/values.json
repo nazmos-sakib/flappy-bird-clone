@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.game.flappybird.android-mergeDebugResources-3:/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/naz/AndroidStudioProjects/flappy-bird/android/res/values/color.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                },
+                {
+                    "source": "/Users/naz/AndroidStudioProjects/flappy-bird/android/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "48",
+                        "endOffsets": "100"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "111",
+                        "endColumns": "48",
+                        "endOffsets": "155"
+                    }
+                }
+            ]
+        }
+    ]
+}
